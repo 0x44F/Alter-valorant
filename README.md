@@ -21,6 +21,8 @@ v1.?.? official release
 ![1](https://media.discordapp.net/attachments/1007738268026159277/1019633873052774490/unknown.png?width=400&height=200)
 ![2](https://user-images.githubusercontent.com/89411010/190538999-fc01dd1a-65d7-4b25-913e-181c29c7cf88.png)
 
+### Seems familiar: https://github.com/kenn-notation/Valorant-External
+
 As you can tell, it is still being pasted by the devs (nothing new, they previously tried to steal and paste my Discord exploit [Otax](https://github.com/0x44F/Otax)) do not expect this 'cheat' to do anything at all, its just a fake loader and the cheat itself is actually just pasted trash that is 100% detected.
 
 **Do not buy this fake cheat. It is a literal scam**
