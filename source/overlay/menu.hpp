@@ -8,21 +8,21 @@ auto drawmenu() -> void
 
 	if (Settings::bMenu)
 	{
-		ImGui::Begin("Valorant", NULL, ImGuiWindowFlags_NoResize | ImGuiWindowFlags_NoCollapse);
+		ImGui::Begin("ALTER", NULL, ImGuiWindowFlags_NoResize | ImGuiWindowFlags_NoCollapse);
 
-		ImGui::SetWindowSize("Valorant", ImVec2(300, 450));
+		ImGui::SetWindowSize("ALTER", ImVec2(300, 450));
 
 		ImGui::Spacing();
 
-		ImGui::Checkbox("Enable 2D Box", &Settings::Visuals::bBox);
+		ImGui::Checkbox("Box ESP", &Settings::Visuals::bBox);
 		if (Settings::Visuals::bBox) Settings::Visuals::bBoxOutlined = false;
 
-		ImGui::Checkbox("Enable Cornered Box", &Settings::Visuals::bBoxOutlined);
+		ImGui::Checkbox("Corner ESP", &Settings::Visuals::bBoxOutlined);
 		if (Settings::Visuals::bBoxOutlined) Settings::Visuals::bBox = false;
 
-		ImGui::Checkbox("Enable Snaplines", &Settings::Visuals::bSnaplines);
-		ImGui::Checkbox("Enable Distance", &Settings::Visuals::bDistance);
-		ImGui::Checkbox("Enable HealthBar", &Settings::Visuals::bHealth);
+		ImGui::Checkbox("Tracers", &Settings::Visuals::bSnaplines);
+		ImGui::Checkbox("Distance Trakcer", &Settings::Visuals::bDistance); // Trakcer (sic)
+		ImGui::Checkbox("Health-bar Tracker", &Settings::Visuals::bHealth);
 
 		ImGui::End();
 	}
