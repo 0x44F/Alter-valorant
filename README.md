@@ -6,7 +6,9 @@
   "Alter" / "Alterrant", the Valorant cheat currently for sale for $50 United States Dollars per month 😂
 </p>
 
-Created originally by 'BirdLinux', this cheat is a fully fledged waste of disk space and will help you in no way whilst playing any games. Claimed by the developers ([HellSec](https://github.com/rpie) & [BirdLinux](https://github.com/deidal0s)) to have many upcoming features such as aimbot (upcoming because they haven't pasted it yet)
+Created originally by 'HellSec' and backed by 'BirdLinux', this cheat is a fully fledged waste of disk space and will help you in no way whilst playing any games. Claimed by the developers ([HellSec](https://github.com/rpie) & [BirdLinux](https://github.com/deidal0s)) to have many upcoming features such as aimbot (upcoming because they haven't pasted it yet)
+
+I will continue to update this source as time goes on, adding features for anyone who actually wants to use this LOL.
 
 ### Features
 ```diff
